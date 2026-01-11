@@ -139,4 +139,4 @@ npm start
 
 ## 👨‍💻 Author
 - **Made with 💙 by Bishwabrata Majumder**
-- **🔗 Connect on [LinkedIn]([https://www.linkedin.com/in/shubham-kumar-894799290/](https://www.linkedin.com/in/bishwabrata-majumder-93b349267/))
+- **🔗 Connect on [LinkedIn]([https://www.linkedin.com/in/shubham-kumar-894799290/](https://www.linkedin.com/in/bishwabrata-majumder-93b349267/)
